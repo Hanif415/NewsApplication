@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="_1_hours_ago_text">1 hours ago</string>
+    <string name="person_name_cnn_indonesia_text">Person Name - CNN Indonesia</string>
+    <string name="title_text">Makin Panas, Hotma Sitompul Ungkap Desiree ke Bali dengan Pria Lain - InsertLive</string>
+    <string name="date_text">April 18, 2021</string>
+    <string name="headlines_text">Headlines</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_text">Home</string>
+    <string name="my_categories_text">My Categories</string>
+    <string name="explore_text">Explore</string>
+    <string name="more_text">More</string>
+    <string name="good_afternoon_hanif_text">Good Afternoon, Hanif</string>
+    <string name="date_place_text">Sindangsari -- 16 Aug, Mostly Clear</string>
+    <string name="today_s_highlight_text">TODAY\'S HIGHLIGHT</string>
+    <string name="for_you_text">FOR YOU</string>
+    <string name="read_more_text">Read More</string>
+    <string name="title_highlight_text">TitleHighlight</string>
+</resources>

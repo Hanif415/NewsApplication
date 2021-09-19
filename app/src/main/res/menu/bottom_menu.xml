@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="@android:color/darker_gray">
+    <item
+        android:id="@+id/fragmentHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_text"
+        app:cnb_iconColor="@color/purple_500" />
+    <item
+        android:id="@+id/fragmentMyCategories"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_border"
+        android:title="@string/my_categories_text"
+        app:cnb_iconColor="@color/purple_500" />
+    <item
+        android:id="@+id/fragmentExplore"
+        android:enabled="true"
+        android:icon="@drawable/ic_widgets"
+        android:title="@string/explore_text"
+        app:cnb_iconColor="@color/purple_500" />
+    <item
+        android:id="@+id/fragmentMore"
+        android:enabled="true"
+        android:icon="@drawable/ic_person"
+        android:title="@string/more_text"
+        app:cnb_iconColor="@color/purple_500" />
+</menu>
